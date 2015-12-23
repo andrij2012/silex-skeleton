@@ -4,7 +4,7 @@ namespace AndriiValkiv\Example;
 /**
  * Class Bootstrap
  *
- * @package AndriiValkiv\Generator
+ * @package AndriiValkiv\Example
  * @author Andrii Valkiv
  */
 class Bootstrap
